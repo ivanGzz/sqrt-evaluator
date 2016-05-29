@@ -2,4 +2,4 @@ experiments:
   sqrt-evaluator:
     type: evaluator
     environment:
-      build .
+      build: .
