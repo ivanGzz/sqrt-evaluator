@@ -22,4 +22,4 @@ results = {
     'value': accuracy
   }
 }
-empirical.postResults(result)
+empirical.postResults(results)
